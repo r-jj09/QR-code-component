@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,900;1,400&display=swap');
+
+@viewport {
+    width: device-width;
+    zoom: 1.0;
+}
+
+body {
+    background-color: hsl(212, 45%, 89%);
+    margin: auto;
+    text-align: center;
+}
+
+
+.card {
+    background-color: hsl(0, 0%, 100%);
+    border-radius: 5%;
+    display: inline-block;
+    width: 330px;
+    text-align: center;
+    margin-top: 100px;
+}
+
+h2 {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+    color: hsl(218, 44%, 22%);
+    padding-left: 25px;
+    padding-right: 25px;
+}
+
+p {
+    color: hsl(220, 15%, 55%);
+    font-size: 15px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-bottom: 15px;
+}
+
+img {
+    border-radius: 7%;
+    align-self: center;
+    height: 300px;
+    width: auto;
+    padding: 10px;
+}
