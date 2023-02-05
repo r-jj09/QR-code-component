@@ -49,7 +49,7 @@ img {
     padding: 10px;
 }
 
-footer {
+footer .attribution {
     text-align: center;
     position: fixed;
     left: 0;
